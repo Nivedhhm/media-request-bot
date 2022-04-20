@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.jpg" alt="Eva Maria Logo">
+  <img src="https://telegra.ph/file/90abe9d93cd79b688b6cf.jpg" alt="Dark Snyder logo">
 </p>
 <h1 align="center">
   <b>Dark snyder</b>
