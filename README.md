@@ -9,9 +9,9 @@
 
 
 
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Nivedhh/EvaMaria)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Nivedhh/media-request-bot)   
 
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/Nivedhh/EvaMaria/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/Nivedhh/media-request-bot/blob/main/LICENSE)
 
 
 
