@@ -16,7 +16,7 @@ import asyncio
 
 @Client.on_message(filters.command("broadcast") & filters.user(ADMINS) & filters.reply)
 
-# https://t.me/GetTGLink/4178
+# https://t.me/GetTGLink/6825
 
 async def verupikkals(bot, message):
 
