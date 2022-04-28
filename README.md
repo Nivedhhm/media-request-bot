@@ -49,24 +49,25 @@ Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up wi
 * Check [info.py](https://github.com/EvamariaTG/evamaria/blob/master/info.py) for more
 
 
-## Deploy
-You can deploy this bot anywhere.
+### 🧑‍💻 𝗗𝗲𝗽𝗹𝗼𝘆 𝗧𝗼 𝗛𝗲𝗿𝗼𝗸𝘂 👨‍💻
+<a href="https://heroku.com/deploy?template=https://github.com/Nivedhhm/Media-request-bot"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Dark Snyder" border="0" height="95" width="200" align="center" /></a>
 
-<i>**[Watch Deploying Tutorial...](https://youtu.be/1G1XwEOnxxo)**</i>
 
-<details><summary>Deploy To Heroku</summary>
-<p>
-<br>
-<a href="https://telegram.dog/XTZ_HerokuBot?start=RXZhbWFyaWFURy9FdmFNYXJpYSBtYXN0ZXI">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
-</p>
-</details>
+
+
+
+
+
+
+
+
+
+
 
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/EvamariaTG/evamaria
+git clone https://github.com/Nivedhhm/Media-request-bot 
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
