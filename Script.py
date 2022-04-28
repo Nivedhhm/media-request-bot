@@ -1,10 +1,10 @@
 class MediaSearchbot(object)
 
-      DEFAULT_MSG = """👋Hello {mention}.....!!!\nIt's Power Full [{bot_name}](t.me/{bot_username}) Here 😎\nAdd Me To Your Group And Make Sure I'm an Admin There! \nAnd Enjoy My Pever Show.....!!!🤪"""
+      START_TXT = """👋Hello {mention}.....!!!\nIt's Power Full [{bot_name}](t.me/{bot_username}) Here 😎\nAdd Me To Your Group And Make Sure I'm an Admin There! \nAnd Enjoy My Pever Show.....!!!🤪"""
 
-    HELP_MSG = """**ഹെല്പ് വേണോ മോനുസേ 🤣**"""
+    HELP_TXT = """**ഹെല്പ് വേണോ മോനുസേ 🤣**"""
 
-    ABOUT_MSG = """
+    ABOUT_TXT = """ MY NAME:{}
 
 🤖 My Name [{bot_name}](t.me/{bot_username})
 🧑 My Dev : [powered by](@kdramaseriesdownlaod1)
@@ -23,7 +23,7 @@ class MediaSearchbot(object)
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
+✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁:
 
     SOURCE_TXT = """<b>NOTE:</b>
 - Sorry this not a open source. 
