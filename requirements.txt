@@ -1,1 +1,1 @@
-bbn
+git+https://github.com/subinps/pyrogram@inline-m
