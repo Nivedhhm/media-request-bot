@@ -1,7 +1,7 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  gitclonehttps://github.com/Nivedhhm/media-request-bot.git/Darkleo
+  gitclone https://github.com/Nivedhhm/media-request-bot.git/Darkleo
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
   git clone $UPSTREAM_REPO /Darkleo
